@@ -1,0 +1,5 @@
+Pour cloner des repositionables de github,
+copier le lien HTTPS, puis dans la console taper
+git clone lienHTTPScopier
+
+Pour 

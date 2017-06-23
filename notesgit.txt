@@ -1,0 +1,43 @@
+/*
+Pour initialisé git
+git config --global user.name "Votre nom ou pseudo"
+git config --global user.email "Votre@email.com"
+
+Pour initialisé un repertoire de travail
+git init
+
+Pour ajouter un fichier à l'index
+git add fichier
+
+ou tous les fichiers du rep
+git add .
+
+Pour créer un version avec commentaire
+git commit -m "commentaire"
+ et aussi actualisé l'index
+git commit -am "commentaire"
+
+
+Pour voir l'état actuel de votre répertoire
+git status
+
+
+Pour voir toutes les versions existantes:
+git log
+
+Pour revenir à une version autre SHADuCommit
+git checkout SHADuCommit
+
+Pour revenir à la branche la plus resente
+git checkout master
+
+Pour "anuller" un commit
+git revert SHADuCommit
+
+Pour modifier le message du dernier commit
+git commit --amend -m "Votre nouveau message"
+
+Annulation des dernier modif avant leurs commit
+git reset --hard?
+
+
