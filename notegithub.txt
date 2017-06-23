@@ -2,4 +2,8 @@ Pour cloner des repositionables de github,
 copier le lien HTTPS, puis dans la console taper
 git clone lienHTTPScopier
 
-Pour 
+Pour mettre sous GitHub votre travail
+git push origin master
+
+Pour lire le contenu de GitHub
+git pull origin master
