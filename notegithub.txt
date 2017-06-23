@@ -7,3 +7,5 @@ git push origin master
 
 Pour lire le contenu de GitHub
 git pull origin master
+
+Bonne lecture
